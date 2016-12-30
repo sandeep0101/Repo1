@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\C#Programs\CopyObject\CopyObject\bin\Debug\CopyObject.exe
+C:\Users\user\Desktop\C#Programs\CopyObject\CopyObject\bin\Debug\CopyObject.pdb
+C:\Users\user\Desktop\C#Programs\CopyObject\CopyObject\obj\Debug\CopyObject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#Programs\CopyObject\CopyObject\obj\Debug\CopyObject.exe
+C:\Users\user\Desktop\C#Programs\CopyObject\CopyObject\obj\Debug\CopyObject.pdb
